@@ -1,5 +1,10 @@
+img[alt=valoro logo] {
+  width: 100px;
+  border: none;
+  background: none;
+}
 # Frontend Task
-![valoro logo](http://valoro.xyz/wp-content/uploads/2019/09/New-Project-8.png =100x)
+![valoro logo](http://valoro.xyz/wp-content/uploads/2019/09/New-Project-8.png)
 
 This is a simple task developed by NextJs. 
 
