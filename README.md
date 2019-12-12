@@ -1,8 +1,3 @@
-img[alt=valoro logo] {
-  width: 100px;
-  border: none;
-  background: none;
-}
 # Frontend Task
 ![valoro logo](https://raw.githubusercontent.com/Mahmo0odsalah/frontend-task/master/valoro.png)
 
