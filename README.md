@@ -4,7 +4,7 @@ img[alt=valoro logo] {
   background: none;
 }
 # Frontend Task
-![valoro logo](http://valoro.xyz/wp-content/uploads/2019/09/New-Project-8.png)
+![valoro logo](https://raw.githubusercontent.com/Mahmo0odsalah/frontend-task/master/valoro.png)
 
 This is a simple task developed by NextJs. 
 
