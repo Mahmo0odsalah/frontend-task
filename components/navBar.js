@@ -163,7 +163,10 @@ export default function PrimarySearchAppBar(props) {
 
   return (
     <div className={classes.grow}>
-      <AppBar position="fixed" style={{ backgroundColor: "#009688" }}>
+      <AppBar
+        position="fixed"
+        style={{ backgroundColor: "#009688", zIndex: "1" }}
+      >
         <Toolbar>
           <IconButton
             edge="start"
@@ -187,6 +190,7 @@ export default function PrimarySearchAppBar(props) {
                 input: classes.inputInput
               }}
               inputProps={{ "aria-label": "search" }}
+              onKeyDown={props.handleSearch}
             />
           </div>
           <div className={classes.grow} />
